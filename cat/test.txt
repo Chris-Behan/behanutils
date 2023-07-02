@@ -1,0 +1,10 @@
+hello, world.
+I am a text file
+
+You can use me for testing the functionality of a program that needs to read text.
+From a file.
+line.
+by.
+line.
+
+Cheers!
